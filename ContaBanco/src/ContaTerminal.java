@@ -27,6 +27,8 @@ public class ContaTerminal {
                 "conta %d e seu saldo é R$ %.2f já está disponível para saque. %n", nomeCliente, agencia, numeroConta, saldo);
 
         // Fecha o scanner
+        
         scanner.close();
+
     }
 }
